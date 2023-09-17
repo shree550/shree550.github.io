@@ -1,89 +1,78 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Shreenidhi Bedarkar</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            margin: 0;
-            padding: 0;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            background-color: white;
-            border-radius: 5px;
-            padding: 20px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            font-size: 32px;
-            margin-bottom: 10px;
-        }
-        h2 {
-            font-size: 24px;
-            margin-top: 20px;
-        }
-        ul {
-            list-style: disc;
-            padding-left: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <section>
-            <h2>Work Experience</h2>
-            <h3>Data Analyst Intern @ Edwise International</h3>
-            <p><em>July 2023 – August 2023 | Pune, India</em></p>
-            <ul>
-                <li>Worked with a dataset of 1000+ students over a 1-year duration.</li>
-                <li>Conducted extensive research to identify patterns and trends.</li>
-                <li>Provided valuable insights to the company through presentations.</li>
-            </ul>
-        </section>
-        <section>
-            <h3>Wireless Home Security System - PBL Team Lead</h3>
-            <p><em>Feb 2023 – Jun 2023 | Pune, India</em></p>
-            <ul>
-                <li>Led a team of 4 in developing an Arduino-based security system.</li>
-                <li>Achieved a working prototype with a 100-meter transmission range and 6-8 meter PIR detection range.</li>
-                <li>Successfully coordinated team efforts, conducted meetings, and distributed tasks.</li>
-                <li>Gained hands-on experience in hardware assembly, Arduino coding, and sensor integration.</li>
-                <li>Conducted on-site work, including multimeter usage and PCB soldering.</li>
-                <li>Created circuit simulations and diagrams using Tinkercad.</li>
-            </ul>
-        </section>
-    </div>
-    <div class="container">
-        <section>
-            <h2>Education</h2>
-            <p><strong>Savitribai Phule Pune University</strong> (Expected June 2025)</p>
-            <p>B.E. Electronics and Telecommunication Engineering | Pune, Maharashtra</p>
-            <p><em>High School</em>: Kline Memorial School, Pune</p>
-            <p><em>Intermediate</em>: Muktangan Jr college, Pune</p>
-        </section>
-        <section>
-            <h2>Certifications, Skills & Interests</h2>
-            <p><strong>Certifications:</strong></p>
-            <ul>
-                <li>HackerRank C++ 5 Stars</li>
-                <li>MATLAB Fundamentals</li>
-                <li>MATLAB Onramp</li>
-                <!-- Add more certifications here -->
-            </ul>
-            <p><strong>Skills:</strong></p>
-            <ul>
-                <li>Strategic Planning</li>
-                <li>Team Leadership</li>
-                <!-- Add more skills here -->
-            </ul>
-            <p><strong>Interests:</strong></p>
-            <p>Swimming 🏊 | Anime 📺 | Hitting the Gym 💪</p>
-        </section>
-    </div>
-</body>
-</html>
+# Shreenidhi Bedarkar
+
+✉️ **Email:** shreemb0@gmail.com &nbsp; | &nbsp; 📱 **Phone:** +91 9370437617 &nbsp; | &nbsp; 🌏 **Location:** Pune, India
+
+---
+
+## **Professional Summary**
+
+Versatile and results-driven Data Analyst and Electronics Engineer with a proven track record in leveraging data insights to drive strategic decisions. Adept at conducting in-depth data analysis, leading cross-functional teams, and creating innovative solutions. Passionate about technology, with a strong foundation in electronics, and a dedication to continuous learning.
+
+---
+
+## **Work Experience**
+
+### **Data Analyst Intern @ Edwise International**
+
+*July 2023 – August 2023 &nbsp; | &nbsp; Pune, India*
+
+- Conducted rigorous analysis of a comprehensive dataset comprising over 1000 student records collected over one year.
+- Employed advanced data mining techniques to uncover hidden patterns and emerging trends.
+- Delivered impactful presentations that provided actionable insights, potentially leading to significant improvements in company performance.
+
+### **PBL Team Lead @ Wireless Home Security System**
+
+*Feb 2023 – Jun 2023 &nbsp; | &nbsp; Pune, India*
+
+- Led a dynamic team of four in the development of an Arduino-based wireless home security system.
+- Successfully engineered a working prototype with an impressive 100-meter transmission range and a 6-8 meter PIR detection radius.
+- Orchestrated efficient team collaboration through strategic meetings and equitable task allocation.
+- Acquired hands-on expertise in hardware assembly, Arduino programming, and sensor integration.
+- Executed on-site tasks, including precise multimeter usage and PCB soldering.
+- Created comprehensive circuit simulations and diagrams using Tinkercad for clear visualization.
+
+---
+
+## **Education**
+
+- **Bachelor of Engineering (B.E.) in Electronics and Telecommunication Engineering**
+  - *Expected Graduation: June 2025*
+  - **Savitribai Phule Pune University**, Pune, Maharashtra
+  - *High School*: Kline Memorial School, Pune
+  - *Intermediate*: Muktangan Jr college, Pune
+
+---
+
+## **Certifications & Skills**
+
+**Certifications:**
+- HackerRank C++ 5 Stars
+- MATLAB Fundamentals
+- MATLAB Onramp
+- Simulink
+- Spoken tutorial C, C++
+- Human Behavior
+- Nvidia Deep Learning
+- Verilog HDL
+
+**Skills:**
+- Strategic Planning
+- Team Leadership
+- Video Editing (Adobe Premiere, After Effects)
+- Graphic Design (Adobe Photoshop)
+- 3D Modeling (Blender)
+- Arduino Development
+- Verilog HDL
+
+---
+
+## **Interests**
+
+- **Swimming:** Passionate about maintaining a healthy lifestyle through regular swimming sessions.
+- **Anime:** Enthusiastic anime lover with a penchant for immersive storytelling.
+- **Gym:** Committed to physical fitness and achieving personal wellness goals through consistent gym workouts.
+
+---
+
+*References available upon request.*
+
