@@ -11,12 +11,6 @@
             margin: 0;
             padding: 0;
         }
-        header {
-            background-color: #007acc;
-            color: white;
-            text-align: center;
-            padding: 20px 0;
-        }
         .container {
             max-width: 800px;
             margin: 20px auto;
@@ -40,10 +34,6 @@
     </style>
 </head>
 <body>
-    <header>
-        <h1>Shreenidhi Bedarkar</h1>
-        <p>Data Analyst & Electronics Engineer</p>
-    </header>
     <div class="container">
         <section>
             <h2>Work Experience</h2>
